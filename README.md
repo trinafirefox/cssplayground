@@ -6,4 +6,4 @@ My playground with HTML, CSS, front-end design
 
 [Project 2: border-radious (2020-May-25)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-25th)
 
-[Project 3: margin: auto (2020-May-25)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-26th)
+[Project 3: margin: auto (2020-May-26)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-26th)
