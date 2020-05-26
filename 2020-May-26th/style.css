@@ -1,27 +1,36 @@
 .div-container1 {
-    border: 1px solid yellow;
-    width: 200px;
-    padding: 10px;
-    text-align: center;
-    margin: auto;
+  border: 1px solid yellow;
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
 }
 
 .div-container2 {
-    border: 1px solid yellow;
-    width: 200px;
-    padding: 10px;
-    text-align: center;
-    margin: 15px 50px;
+  border: 1px solid yellow;
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  text-align: center;
+  margin-left: 15px ;
+  margin-top: 15px;
 }
 
 #div1 {
-    margin: auto;
-    border: 1px solid green;
-    padding: 10px;
+  margin: auto;
+  border: 1px solid green;
+  padding: 10px;
 }
 
 #div2 {
-    margin: inherit;
-    border: 1px solid green;
-    padding: 10px;
+  margin-left: inherit;
+  margin-top: inherit;
+  border: 1px solid green;
+  padding: 10px;
+}
+
+#bigdiv {
+  width: 500px;
+  border: 1px solid red;
 }
