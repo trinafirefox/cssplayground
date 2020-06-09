@@ -1,0 +1,29 @@
+.div-1 > img {
+    width: 200px;
+    height: 400px;
+    object-fit: fill;
+}
+
+.div-2 > img {
+    width: 200px;
+    height: 400px;
+    object-fit: contain;
+}
+
+.div-3 > img {
+    width: 200px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.div-4 > img {
+    width: 200px;
+    height: 400px;
+    object-fit: none;
+}
+
+.div-5 > img {
+    width: 200px;
+    height: 400px;
+    object-fit: scale-down;
+}
