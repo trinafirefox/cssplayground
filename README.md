@@ -22,5 +22,5 @@ My playground with HTML, CSS, front-end design
 
 [Bootstrap 2: Equal-width multi-line with <b>.w-100</b> (2020-June-11)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-12th)
 
-[Bootstrap 3: Variable with content using <b>.col-{breakpoint}-auto (2020-June-11)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-12th)
+[Bootstrap 3: Variable with content using <b>.col-{breakpoint}-auto </b> (2020-June-11)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-12th)
 
