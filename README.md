@@ -2,7 +2,7 @@
 
 My playground with HTML, CSS, front-end design
 
-<h2> Just CSS </h2>
+<h2> Just CSS 3</h2>
 
 [Project 1: <b> box-shadow </b> (2020-May-23)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-23rd)
 
