@@ -4,17 +4,17 @@ My playground with HTML, CSS, front-end design
 
 <h2> Just CSS 3</h2>
 
-[Project 1: <b> box-shadow </b> (2020-May-23)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-23rd)
+[CSS 1: <b> box-shadow </b> (2020-May-23)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-23rd)
 
-[Project 2: <b> border-radious </b> (2020-May-25)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-25th)
+[CSS 2: <b> border-radious </b> (2020-May-25)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-25th)
 
-[Project 3: <b> margin </b> (2020-May-26)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-26th)
+[CSS 3: <b> margin </b> (2020-May-26)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-26th)
 
-[Project 4: <b> box-sizing: border-box </b> (2020-May-27)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-27th)
+[CSS 4: <b> box-sizing: border-box </b> (2020-May-27)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-27th)
 
-[Project 5: <b> object-fit </b> (2020-June-9)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-9th)
+[CSS 5: <b> object-fit </b> (2020-June-9)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-9th)
 
-[Project 6: <b> list-style </b> (2020-June-10)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-10th)
+[CSS 6: <b> list-style </b> (2020-June-10)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-10th)
 
 <h2> My little Bootstrap 4 experiments </h2>
 
