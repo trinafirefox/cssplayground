@@ -16,3 +16,4 @@ My playground with HTML, CSS, front-end design
 
 My little Bootstrap experiments
 
+[Bootstrap 1: container (2020-June-11)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-11th)
