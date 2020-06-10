@@ -16,7 +16,7 @@ My playground with HTML, CSS, front-end design
 
 [Project 6: <b> list-style </b> (2020-June-10)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-10th)
 
-<h2> My little Bootstrap experiments </h2>
+<h2> My little Bootstrap 4 experiments </h2>
 
 [Bootstrap 1: <b> .container-{breakpoint} </b> (2020-June-11)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-11th)
 
