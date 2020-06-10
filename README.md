@@ -2,6 +2,8 @@
 
 My playground with HTML, CSS, front-end design
 
+<h2> Just CSS </h2>
+
 [Project 1: <b> box-shadow </b> (2020-May-23)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-23rd)
 
 [Project 2: <b> border-radious </b> (2020-May-25)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-25th)
@@ -14,7 +16,7 @@ My playground with HTML, CSS, front-end design
 
 [Project 6: <b> list-style </b> (2020-June-10)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-10th)
 
-My little Bootstrap experiments
+<h2> My little Bootstrap experiments </h2>
 
 [Bootstrap 1: <b> .container-{breakpoint} </b> (2020-June-11)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-11th)
 
