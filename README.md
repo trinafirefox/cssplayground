@@ -11,3 +11,5 @@ My playground with HTML, CSS, front-end design
 [Project 4: box-sizing: border-box (2020-May-27)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-27th)
 
 [Project 5: object-fit (2020-June-9)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-9th)
+
+[Project 6: list-style (2020-June-10)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-10th)
