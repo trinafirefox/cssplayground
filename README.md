@@ -20,7 +20,7 @@ My playground with HTML, CSS, front-end design
 
 [Bootstrap 1: <b> .container-{breakpoint} </b> (2020-June-11)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-11th)
 
-[Bootstrap 2: Equal-width multi-line with <b>.w-100</b> (2020-June-11)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-12th)
+[Bootstrap 2: Equal-width multi-line with <b>.w-100</b> (2020-June-12)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-12th)
 
-[Bootstrap 3: Variable with content using <b>.col-{breakpoint}-auto </b> (2020-June-11)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-12th)
+[Bootstrap 3: Variable with content using <b>.col-{breakpoint}-auto </b> (2020-June-13)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-13th)
 
