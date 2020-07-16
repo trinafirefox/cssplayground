@@ -1,6 +1,6 @@
 # front-end-playground
 
-My playground with HTML, CSS, Flutter, React Native
+My playground with HTML, CSS, front-end libraries
 <h1> CSS </h1>
 
 <h2> CSS responsive </h2>
