@@ -25,6 +25,8 @@ My playground with HTML, CSS, front-end libraries
 
 <h2> Amburgers </h2>
 
+<h2> Masonry </h2>
+
 <h2> Miscellanous </h2>
 
 [CSS 1: <b> box-shadow </b> (2020-May-23)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-23rd)
