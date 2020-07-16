@@ -21,6 +21,8 @@ My playground with HTML, CSS, Flutter, React Native
 
 <h2> CSS animations </h2>
 
+<h2> Animate.css </h2>
+
 <h2> Miscellanous </h2>
 
 [CSS 1: <b> box-shadow </b> (2020-May-23)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-23rd)
