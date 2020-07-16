@@ -1,8 +1,9 @@
 # front-end-playground
 
 My playground with HTML, CSS, Flutter, React Native
+<h1> CSS </h1>
 
-<h2> Just CSS 3</h2>
+<h2> Miscellanous </h2>
 
 [CSS 1: <b> box-shadow </b> (2020-May-23)](https://github.com/trinafirefox/cssplayground/tree/master/2020-May-23rd)
 
@@ -16,7 +17,11 @@ My playground with HTML, CSS, Flutter, React Native
 
 [CSS 6: <b> list-style </b> (2020-June-10)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-10th)
 
-<h2> My little Bootstrap 4 experiments </h2>
+<h2> CSS Flexbox </h2>
+
+<h2> CSS Grid </h2>
+
+<h2> Bootstrap 4 </h2>
 
 [Bootstrap 1: <b> .container-{breakpoint} </b> (2020-June-11)](https://github.com/trinafirefox/cssplayground/tree/master/2020-June-11th)
 
